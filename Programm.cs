@@ -9,6 +9,7 @@ namespace lesson3
             decimal userBalance = 300m;
             string basket = "";
             string erroBalanceMessage = "У вас недостаточно средств";
+            //comment
 
         start: //Метка "start"
 
